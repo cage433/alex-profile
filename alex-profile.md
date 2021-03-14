@@ -26,15 +26,8 @@ Career Highlights
 
 - In the commodities space, the majority of my modelling has been concerned with 
   the financialisation of physical assets, whose value can be a significant percentage of the 
-  customer's assets.  These include, but are not limited to
-
-  -- Hydro-electric dams
-  -- Reservoirs
-  -- Coal and gas power stations (including a significant percentage of the UK's entire generation)
-  -- Gas storage units
-  -- Interruption rights
-  -- A portfolio of LNG contracts and vessels, lasting over 30 years
-
+  customer's assets.  These include, but are not limited to, hydro-electric dams, power stations,
+  interruption rights, portfolios of LNG contracts and vessels.
 
   These often have highly specific real-world features, and typically require the design of new 
   price processes, while of course being consistent with related, standard traded instruments
